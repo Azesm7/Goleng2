@@ -5,7 +5,7 @@ package template
 
 import (
 	"bytes"
-	"coursera/template_adv/item"
+	"main/item"
 
 	"github.com/shiyanhui/hero"
 )
